@@ -1,0 +1,176 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/markdown-navigator/
+* .idea/markdown-navigator/profiles_settings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* AndroidManifest-installer.xml
+* android.iml
+* ant.properties
+* app/
+* app/build.gradle
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/fq/
+* app/src/main/java/fq/router2/
+* app/src/main/java/fq/router2/BootCompletedReceiver.java
+* app/src/main/java/fq/router2/CheckDnsPollutionService.java
+* app/src/main/java/fq/router2/ConnectivityChangeReceiver.java
+* app/src/main/java/fq/router2/DnsPollutedIntent.java
+* app/src/main/java/fq/router2/MainActivity.java
+* app/src/main/java/fq/router2/MainSettingsActivity.java
+* app/src/main/java/fq/router2/SocksVpnConnectedIntent.java
+* app/src/main/java/fq/router2/SocksVpnService.java
+* app/src/main/java/fq/router2/feedback/
+* app/src/main/java/fq/router2/feedback/CheckUpdateService.java
+* app/src/main/java/fq/router2/feedback/DownloadFailedIntent.java
+* app/src/main/java/fq/router2/feedback/DownloadService.java
+* app/src/main/java/fq/router2/feedback/DownloadedIntent.java
+* app/src/main/java/fq/router2/feedback/DownloadingIntent.java
+* app/src/main/java/fq/router2/feedback/ErrorReportEmail.java
+* app/src/main/java/fq/router2/feedback/HandleAlertIntent.java
+* app/src/main/java/fq/router2/feedback/HandleFatalErrorIntent.java
+* app/src/main/java/fq/router2/feedback/UpdateFoundIntent.java
+* app/src/main/java/fq/router2/life_cycle/
+* app/src/main/java/fq/router2/life_cycle/Deployer.java
+* app/src/main/java/fq/router2/life_cycle/ExitService.java
+* app/src/main/java/fq/router2/life_cycle/ExitedIntent.java
+* app/src/main/java/fq/router2/life_cycle/ExitingIntent.java
+* app/src/main/java/fq/router2/life_cycle/LaunchService.java
+* app/src/main/java/fq/router2/life_cycle/LaunchedIntent.java
+* app/src/main/java/fq/router2/life_cycle/LaunchingIntent.java
+* app/src/main/java/fq/router2/life_cycle/ManagerProcess.java
+* app/src/main/java/fq/router2/utils/
+* app/src/main/java/fq/router2/utils/AirplaneModeUtils.java
+* app/src/main/java/fq/router2/utils/ApkUtils.java
+* app/src/main/java/fq/router2/utils/ConfigUtils.java
+* app/src/main/java/fq/router2/utils/DnsUtils.java
+* app/src/main/java/fq/router2/utils/HttpUtils.java
+* app/src/main/java/fq/router2/utils/IOUtils.java
+* app/src/main/java/fq/router2/utils/LogUtils.java
+* app/src/main/java/fq/router2/utils/LoggedBroadcastReceiver.java
+* app/src/main/java/fq/router2/utils/ShellUtils.java
+* app/src/main/java/fq/router2/utils/StartedAtFlag.java
+* app/src/main/java/fq/router2/wifi_repeater/
+* app/src/main/java/fq/router2/wifi_repeater/AcquireWifiLockService.java
+* app/src/main/java/fq/router2/wifi_repeater/ReleaseWifiLockService.java
+* app/src/main/java/net/
+* app/src/main/java/net/sf/
+* app/src/main/java/net/sf/ivmaidns/
+* app/src/main/java/net/sf/ivmaidns/dns/
+* app/src/main/java/net/sf/ivmaidns/dns/DNSConnection.java
+* app/src/main/java/net/sf/ivmaidns/dns/DNSMsgHeader.java
+* app/src/main/java/net/sf/ivmaidns/dns/DNSName.java
+* app/src/main/java/net/sf/ivmaidns/dns/DNSRecAltCmp.java
+* app/src/main/java/net/sf/ivmaidns/dns/DNSRecord.java
+* app/src/main/java/net/sf/ivmaidns/util/
+* app/src/main/java/net/sf/ivmaidns/util/ActivityCore.java
+* app/src/main/java/net/sf/ivmaidns/util/BooleanVector.java
+* app/src/main/java/net/sf/ivmaidns/util/ByteVector.java
+* app/src/main/java/net/sf/ivmaidns/util/CharVector.java
+* app/src/main/java/net/sf/ivmaidns/util/ConstPair.java
+* app/src/main/java/net/sf/ivmaidns/util/ConstVector.java
+* app/src/main/java/net/sf/ivmaidns/util/DoubleVector.java
+* app/src/main/java/net/sf/ivmaidns/util/FloatVector.java
+* app/src/main/java/net/sf/ivmaidns/util/GComparator.java
+* app/src/main/java/net/sf/ivmaidns/util/Immutable.java
+* app/src/main/java/net/sf/ivmaidns/util/Indexable.java
+* app/src/main/java/net/sf/ivmaidns/util/IntVector.java
+* app/src/main/java/net/sf/ivmaidns/util/JavaConsts.java
+* app/src/main/java/net/sf/ivmaidns/util/Lockable.java
+* app/src/main/java/net/sf/ivmaidns/util/LongVector.java
+* app/src/main/java/net/sf/ivmaidns/util/Metricable.java
+* app/src/main/java/net/sf/ivmaidns/util/MultiObservable.java
+* app/src/main/java/net/sf/ivmaidns/util/Notifiable.java
+* app/src/main/java/net/sf/ivmaidns/util/ObjectVector.java
+* app/src/main/java/net/sf/ivmaidns/util/ObservedCore.java
+* app/src/main/java/net/sf/ivmaidns/util/ParserException.java
+* app/src/main/java/net/sf/ivmaidns/util/PseudoRandom.java
+* app/src/main/java/net/sf/ivmaidns/util/ReallyCloneable.java
+* app/src/main/java/net/sf/ivmaidns/util/SafeRunnable.java
+* app/src/main/java/net/sf/ivmaidns/util/ShortVector.java
+* app/src/main/java/net/sf/ivmaidns/util/Sortable.java
+* app/src/main/java/net/sf/ivmaidns/util/StrComparator.java
+* app/src/main/java/net/sf/ivmaidns/util/ToString.java
+* app/src/main/java/net/sf/ivmaidns/util/TrimToSizeable.java
+* app/src/main/java/net/sf/ivmaidns/util/UnsignedInt.java
+* app/src/main/java/net/sf/ivmaidns/util/UnsignedLong.java
+* app/src/main/java/net/sf/ivmaidns/util/Verifiable.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/icon.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/icon.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/icon.png
+* app/src/main/res/drawable-xxhdpi/
+* app/src/main/res/drawable-xxhdpi/icon.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/arrow_left.png
+* app/src/main/res/drawable/arrow_right.png
+* app/src/main/res/drawable/arrow_up.png
+* app/src/main/res/drawable/star.png
+* app/src/main/res/layout/
+* app/src/main/res/layout/main.xml
+* app/src/main/res/values-zh/
+* app/src/main/res/values-zh/strings.xml
+* app/src/main/res/values/
+* app/src/main/res/values/analytics.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/xml/
+* app/src/main/res/xml/preferences.xml
+* assets-installer/
+* assets-installer/EMPTY
+* build.gradle
+* build.xml
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* pages/
+* pages/about-cn.html
+* pages/about-en.html
+* prepare-payload.py
+* proguard-project.txt
+* settings.gradle
+* switch-to-app.py
+* switch-to-installer.py
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest-app.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

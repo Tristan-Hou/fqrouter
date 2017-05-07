@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/xml/global_tracker.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/generated/res/google-services/debug/xml/global_tracker.xml"
+    }
+]

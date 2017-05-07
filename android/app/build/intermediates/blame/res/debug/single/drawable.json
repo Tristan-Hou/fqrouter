@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/arrow_left.png",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/src/main/res/drawable/arrow_left.png"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/star.png",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/src/main/res/drawable/star.png"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/arrow_right.png",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/src/main/res/drawable/arrow_right.png"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/arrow_up.png",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/src/main/res/drawable/arrow_up.png"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    }
+]

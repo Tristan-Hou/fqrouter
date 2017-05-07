@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1021039560275",
+    "project_id": "firebase-fqrouter"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021039560275:android:12e30686b4dba489",
+        "android_client_info": {
+          "package_name": "fq.router2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLOCM32fVozYqrDkjTcqPfee3hmEWl1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-98705309-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/jianhua.hou/AndroidStudioProjects/fqrouter/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/color/common_plus_signin_btn_text_dark.xml"
+    }
+]
